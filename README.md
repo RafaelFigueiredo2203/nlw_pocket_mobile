@@ -5,15 +5,15 @@
 
 <h1 align="center" >
 
-![image](https://github.com/user-attachments/assets/6d60ce23-c71f-4e3f-baab-b89979df43bd)
-
-
-![image](https://github.com/user-attachments/assets/a00cb4a5-833a-4687-a93c-efbf64d8c742)
+![image](https://github.com/user-attachments/assets/5f5d68c2-41e9-48bb-a474-b04723f6b324)
 
 
 
 
-  </h1>
+![image](https://github.com/user-attachments/assets/5eb34ae4-fa20-438c-9a11-050016b4dae5)
+
+
+
 
 ## 🌍 Sobre o projeto
 
